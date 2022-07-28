@@ -1,16 +1,20 @@
 /**
  * Do not edit directly
- * Generated on Thu, 28 Jul 2022 08:45:03 GMT
+ * Generated on Thu, 28 Jul 2022 09:16:32 GMT
  */
 
 :root {
   --cds-semantic-danger: #eb0000;
   --cds-core-color-red-10: #ff9d9d;
   --cds-core-color-red-base: #eb0000;
+  --cds-core-font-size-1: 16;
+  --cds-core-font-size-2: 32;
   --cds-core-font-size-root: 16;
   --cds-core-spacing-default: 8;
   --cds-core-spacing-s: 4;
   --cds-core-spacing-m: 8;
   --cds-core-spacing-l: 16;
   --cds-core-spacing-xl: 32;
+  --cds-core-border-radius-1: 4;
+  --cds-core-border-radius-2: 16;
 }

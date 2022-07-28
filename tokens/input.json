@@ -20,6 +20,14 @@
         }
       },
       "font-size": {
+        "1": {
+          "value": 16,
+          "type": "fontSizes"
+        },
+        "2": {
+          "value": 32,
+          "type": "fontSizes"
+        },
         "root": {
           "value": 16,
           "type": "fontSizes"
@@ -45,6 +53,16 @@
         "xl": {
           "value": 32,
           "type": "spacing"
+        }
+      },
+      "border-radius": {
+        "1": {
+          "value": 4,
+          "type": "borderRadius"
+        },
+        "2": {
+          "value": 16,
+          "type": "borderRadius"
         }
       }
     }
