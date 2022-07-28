@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Wed, 27 Jul 2022 15:42:47 GMT
+ * Generated on Thu, 28 Jul 2022 08:03:51 GMT
  */
 
 :root {
-  --core-color-red-base: #ff3300;
-  --core-color-blue-base: #002cff;
-  --semantic-color-danger: #ff3300;
+  --cds-semantic-danger: #eb0000;
+  --cds-core-color-red-10: #ff9d9d;
+  --cds-core-color-red-base: #eb0000;
 }
