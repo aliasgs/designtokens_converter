@@ -27,23 +27,23 @@
       },
       "spacing": {
         "default": {
-          "value": 22,
+          "value": 8,
           "type": "spacing"
         },
         "s": {
-          "value": 11,
+          "value": 4,
           "type": "spacing"
         },
         "m": {
-          "value": 22,
+          "value": 8,
           "type": "spacing"
         },
         "l": {
-          "value": 44,
+          "value": 16,
           "type": "spacing"
         },
         "xl": {
-          "value": 88,
+          "value": 32,
           "type": "spacing"
         }
       }
