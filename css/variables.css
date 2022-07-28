@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 28 Jul 2022 08:39:25 GMT
+ * Generated on Thu, 28 Jul 2022 08:40:48 GMT
  */
 
 :root {
@@ -8,9 +8,9 @@
   --cds-core-color-red-10: #ff9d9d;
   --cds-core-color-red-base: #eb0000;
   --cds-core-font-size-root: 16;
-  --cds-core-spacing-default: 16;
-  --cds-core-spacing-s: 8;
-  --cds-core-spacing-m: 16;
-  --cds-core-spacing-l: 32;
-  --cds-core-spacing-xl: 64;
+  --cds-core-spacing-default: 22;
+  --cds-core-spacing-s: 11;
+  --cds-core-spacing-m: 22;
+  --cds-core-spacing-l: 44;
+  --cds-core-spacing-xl: 88;
 }
