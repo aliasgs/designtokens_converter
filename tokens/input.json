@@ -21,15 +21,15 @@
       },
       "font-size": {
         "1": {
-          "value": 8,
-          "type": "fontSizes"
-        },
-        "2": {
           "value": 16,
           "type": "fontSizes"
         },
+        "2": {
+          "value": 32,
+          "type": "fontSizes"
+        },
         "root": {
-          "value": 8,
+          "value": 16,
           "type": "fontSizes"
         }
       },
@@ -61,7 +61,7 @@
           "type": "borderRadius"
         },
         "2": {
-          "value": 40,
+          "value": 20,
           "type": "borderRadius"
         }
       }
