@@ -2,7 +2,7 @@
   "cds": {
     "semantic": {
       "danger": {
-        "value": "#4f0d0d",
+        "value": "#e60ab5",
         "type": "color"
       }
     },
@@ -14,7 +14,7 @@
             "type": "color"
           },
           "base": {
-            "value": "#4f0d0d",
+            "value": "#e60ab5",
             "type": "color"
           }
         }
@@ -61,7 +61,7 @@
           "type": "borderRadius"
         },
         "2": {
-          "value": 20,
+          "value": 120,
           "type": "borderRadius"
         }
       }

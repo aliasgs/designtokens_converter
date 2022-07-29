@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 12:38:19 GMT
+ * Generated on Fri, 29 Jul 2022 12:42:12 GMT
  */
 
 :root {
-  --cds-semantic-danger: #4f0d0d;
+  --cds-semantic-danger: #e60ab5;
   --cds-core-color-red-10: #ff9d9d;
-  --cds-core-color-red-base: #4f0d0d;
+  --cds-core-color-red-base: #e60ab5;
   --cds-core-font-size-1: 16;
   --cds-core-font-size-2: 32;
   --cds-core-font-size-root: 16;
@@ -16,5 +16,5 @@
   --cds-core-spacing-l: 16;
   --cds-core-spacing-xl: 32;
   --cds-core-border-radius-1: 4;
-  --cds-core-border-radius-2: 20;
+  --cds-core-border-radius-2: 120;
 }
