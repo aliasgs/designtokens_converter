@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 17:15:47 GMT
+ * Generated on Fri, 29 Jul 2022 17:52:47 GMT
  */
 
 :root {
@@ -12,6 +12,10 @@
   --cds-component-card-narrow: 400;
   --cds-semantic-color-primary: #0068ed;
   --cds-semantic-color-error: #f00;
+  --cds-semantic-fontsize-body: 14;
+  --cds-semantic-fontsize-title: 21.875;
+  --cds-semantic-fontsize-subtitle: 11.2;
+  --cds-semantic-fontsize-primaryaction: 14;
   --cds-core-color-red-100: #bf0101;
   --cds-core-color-red-200: #2c0000;
   --cds-core-color-red-base: #f00;
@@ -26,4 +30,11 @@
   --cds-core-sizing-s: 400;
   --cds-core-sizing-m: 600;
   --cds-core-sizing-l: 900;
+  --cds-core-fontsize-1: 8.96;
+  --cds-core-fontsize-2: 11.2;
+  --cds-core-fontsize-3: 14;
+  --cds-core-fontsize-4: 17.5;
+  --cds-core-fontsize-5: 21.875;
+  --cds-core-fontsize-root: 14;
+  --cds-core-fontsize-multiplier: 1.25;
 }

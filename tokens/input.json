@@ -40,6 +40,24 @@
           "value": "#f00",
           "type": "color"
         }
+      },
+      "fontsize": {
+        "body": {
+          "value": 14,
+          "type": "fontSizes"
+        },
+        "title": {
+          "value": 21.875,
+          "type": "fontSizes"
+        },
+        "subtitle": {
+          "value": 11.2,
+          "type": "fontSizes"
+        },
+        "primaryaction": {
+          "value": 14,
+          "type": "fontSizes"
+        }
       }
     },
     "core": {
@@ -107,6 +125,36 @@
         "l": {
           "value": 900,
           "type": "sizing"
+        }
+      },
+      "fontsize": {
+        "1": {
+          "value": 8.96,
+          "type": "fontSizes"
+        },
+        "2": {
+          "value": 11.2,
+          "type": "fontSizes"
+        },
+        "3": {
+          "value": 14,
+          "type": "fontSizes"
+        },
+        "4": {
+          "value": 17.5,
+          "type": "fontSizes"
+        },
+        "5": {
+          "value": 21.875,
+          "type": "fontSizes"
+        },
+        "root": {
+          "value": 14,
+          "type": "fontSizes"
+        },
+        "multiplier": {
+          "value": 1.25,
+          "type": "fontSizes"
         }
       }
     }
