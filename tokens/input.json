@@ -1,68 +1,108 @@
 {
   "cds": {
+    "component": {
+      "color": {
+        "background": {
+          "value": "#000b3a",
+          "type": "color"
+        },
+        "button": {
+          "value": "#0068ed",
+          "type": "color"
+        },
+        "error-message": {
+          "value": "#f00",
+          "type": "color"
+        }
+      },
+      "card": {
+        "default": {
+          "value": 600,
+          "type": "sizing"
+        },
+        "wide": {
+          "value": 900,
+          "type": "sizing"
+        },
+        "narrow": {
+          "value": 400,
+          "type": "sizing"
+        }
+      }
+    },
     "semantic": {
-      "danger": {
-        "value": "#e60ab5",
-        "type": "color"
+      "color": {
+        "primary": {
+          "value": "#0068ed",
+          "type": "color"
+        },
+        "error": {
+          "value": "#f00",
+          "type": "color"
+        }
       }
     },
     "core": {
       "color": {
         "red": {
-          "10": {
-            "value": "#ff9d9d",
+          "100": {
+            "value": "#bf0101",
+            "type": "color"
+          },
+          "200": {
+            "value": "#2c0000",
             "type": "color"
           },
           "base": {
-            "value": "#e60ab5",
+            "value": "#f00",
+            "type": "color"
+          }
+        },
+        "blue": {
+          "100": {
+            "value": "#012981",
+            "type": "color"
+          },
+          "200": {
+            "value": "#000b3a",
+            "type": "color"
+          },
+          "base": {
+            "value": "#0068ed",
             "type": "color"
           }
         }
       },
-      "font-size": {
+      "radius": {
         "1": {
-          "value": 16,
-          "type": "fontSizes"
+          "value": 10,
+          "type": "borderRadius"
         },
         "2": {
-          "value": 32,
-          "type": "fontSizes"
+          "value": 20,
+          "type": "borderRadius"
         },
-        "root": {
-          "value": 16,
-          "type": "fontSizes"
+        "3": {
+          "value": 30,
+          "type": "borderRadius"
         }
       },
-      "spacing": {
-        "default": {
-          "value": 8,
-          "type": "spacing"
+      "sizing": {
+        "base": {
+          "value": 600,
+          "type": "sizing"
         },
         "s": {
-          "value": 4,
-          "type": "spacing"
+          "value": 400,
+          "type": "sizing"
         },
         "m": {
-          "value": 8,
-          "type": "spacing"
+          "value": 600,
+          "type": "sizing"
         },
         "l": {
-          "value": 16,
-          "type": "spacing"
-        },
-        "xl": {
-          "value": 32,
-          "type": "spacing"
-        }
-      },
-      "border-radius": {
-        "1": {
-          "value": 4,
-          "type": "borderRadius"
-        },
-        "2": {
-          "value": 120,
-          "type": "borderRadius"
+          "value": 900,
+          "type": "sizing"
         }
       }
     }

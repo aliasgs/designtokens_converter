@@ -1,20 +1,28 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 12:42:12 GMT
+ * Generated on Fri, 29 Jul 2022 16:38:42 GMT
  */
 
 :root {
-  --cds-semantic-danger: #e60ab5;
-  --cds-core-color-red-10: #ff9d9d;
-  --cds-core-color-red-base: #e60ab5;
-  --cds-core-font-size-1: 16;
-  --cds-core-font-size-2: 32;
-  --cds-core-font-size-root: 16;
-  --cds-core-spacing-default: 8;
-  --cds-core-spacing-s: 4;
-  --cds-core-spacing-m: 8;
-  --cds-core-spacing-l: 16;
-  --cds-core-spacing-xl: 32;
-  --cds-core-border-radius-1: 4;
-  --cds-core-border-radius-2: 120;
+  --cds-component-color-background: #000b3a;
+  --cds-component-color-button: #0068ed;
+  --cds-component-color-error-message: #f00;
+  --cds-component-card-default: 600;
+  --cds-component-card-wide: 900;
+  --cds-component-card-narrow: 400;
+  --cds-semantic-color-primary: #0068ed;
+  --cds-semantic-color-error: #f00;
+  --cds-core-color-red-100: #bf0101;
+  --cds-core-color-red-200: #2c0000;
+  --cds-core-color-red-base: #f00;
+  --cds-core-color-blue-100: #012981;
+  --cds-core-color-blue-200: #000b3a;
+  --cds-core-color-blue-base: #0068ed;
+  --cds-core-radius-1: 10;
+  --cds-core-radius-2: 20;
+  --cds-core-radius-3: 30;
+  --cds-core-sizing-base: 600;
+  --cds-core-sizing-s: 400;
+  --cds-core-sizing-m: 600;
+  --cds-core-sizing-l: 900;
 }
