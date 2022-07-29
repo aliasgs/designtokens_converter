@@ -43,19 +43,19 @@
       },
       "fontsize": {
         "body": {
-          "value": 14,
+          "value": 18,
           "type": "fontSizes"
         },
         "title": {
-          "value": 21.875,
+          "value": 28.125,
           "type": "fontSizes"
         },
         "subtitle": {
-          "value": 11.2,
+          "value": 14.4,
           "type": "fontSizes"
         },
         "primaryaction": {
-          "value": 14,
+          "value": 18,
           "type": "fontSizes"
         }
       }
@@ -129,27 +129,27 @@
       },
       "fontsize": {
         "1": {
-          "value": 8.96,
+          "value": 11.52,
           "type": "fontSizes"
         },
         "2": {
-          "value": 11.2,
+          "value": 14.4,
           "type": "fontSizes"
         },
         "3": {
-          "value": 14,
+          "value": 18,
           "type": "fontSizes"
         },
         "4": {
-          "value": 17.5,
+          "value": 22.5,
           "type": "fontSizes"
         },
         "5": {
-          "value": 21.875,
+          "value": 28.125,
           "type": "fontSizes"
         },
         "root": {
-          "value": 14,
+          "value": 18,
           "type": "fontSizes"
         },
         "multiplier": {
