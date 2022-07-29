@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 16:56:43 GMT
+ * Generated on Fri, 29 Jul 2022 17:15:47 GMT
  */
 
 :root {
   --cds-component-color-background: #000b3a;
   --cds-component-color-button: #0068ed;
-  --cds-component-color-error-message: #f00;
+  --cds-component-color-errormessage: #f00;
   --cds-component-card-default: 600;
   --cds-component-card-wide: 900;
   --cds-component-card-narrow: 400;

@@ -10,7 +10,7 @@
           "value": "#0068ed",
           "type": "color"
         },
-        "error-message": {
+        "errormessage": {
           "value": "#f00",
           "type": "color"
         }
