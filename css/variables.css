@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Jul 2022 16:38:42 GMT
+ * Generated on Fri, 29 Jul 2022 16:56:43 GMT
  */
 
 :root {
@@ -18,6 +18,7 @@
   --cds-core-color-blue-100: #012981;
   --cds-core-color-blue-200: #000b3a;
   --cds-core-color-blue-base: #0068ed;
+  --cds-core-radius-0: 0;
   --cds-core-radius-1: 10;
   --cds-core-radius-2: 20;
   --cds-core-radius-3: 30;
