@@ -7,7 +7,7 @@
           "type": "color"
         },
         "button": {
-          "value": "#00ed33",
+          "value": "#0057ff",
           "type": "color"
         },
         "errormessage": {
@@ -33,7 +33,7 @@
     "semantic": {
       "color": {
         "primary": {
-          "value": "#00ed33",
+          "value": "#0057ff",
           "type": "color"
         },
         "error": {
@@ -86,7 +86,7 @@
             "type": "color"
           },
           "base": {
-            "value": "#00ed33",
+            "value": "#0057ff",
             "type": "color"
           }
         }
