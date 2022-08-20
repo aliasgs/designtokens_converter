@@ -1,4 +1,18 @@
 {
+  "tokenSetOrder": {
+    "0": {
+      "value": "core",
+      "type": "other"
+    },
+    "1": {
+      "value": "semantic",
+      "type": "other"
+    },
+    "2": {
+      "value": "component",
+      "type": "other"
+    }
+  },
   "cds": {
     "component": {
       "color": {
@@ -72,6 +86,10 @@
             "type": "color"
           },
           "base": {
+            "value": "#f00",
+            "type": "color"
+          },
+          "base-copy": {
             "value": "#f00",
             "type": "color"
           }

@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Wed, 03 Aug 2022 08:48:44 GMT
+ * Generated on Sat, 20 Aug 2022 12:54:54 GMT
  */
 
 :root {
+  --token-set-order-0: core;
+  --token-set-order-1: semantic;
+  --token-set-order-2: component;
   --cds-component-color-background: #000b3a;
   --cds-component-color-button: #06bbff;
   --cds-component-color-errormessage: #f00;
@@ -19,6 +22,7 @@
   --cds-core-color-red-100: #bf0101;
   --cds-core-color-red-200: #2c0000;
   --cds-core-color-red-base: #f00;
+  --cds-core-color-red-base-copy: #f00;
   --cds-core-color-blue-100: #012981;
   --cds-core-color-blue-200: #000b3a;
   --cds-core-color-blue-base: #06bbff;
